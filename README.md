@@ -29,7 +29,8 @@ A full-stack interactive dashboard for Grazioso Salvare, an animal rescue organi
 - Sensitive data files are excluded from repository.
 
 
-## Dataset This project uses the Austin Animal Center (AAC) Shelter Outcomes dataset. Download it from Kaggle: https://www.kaggle.com/datasets/aaronschlegel/austin-animal-center-shelter-outcomes-and This project also uses MongoDB sample datasets: - companies.json - city-inspections.json These can be downloaded from MongoDB's sample dataset collection. 
+## Dataset 
+This project uses the Austin Animal Center (AAC) Shelter Outcomes dataset. Download it from Kaggle: https://www.kaggle.com/datasets/aaronschlegel/austin-animal-center-shelter-outcomes-and This project also uses MongoDB sample datasets: - companies.json - city-inspections.json These can be downloaded from MongoDB's sample dataset collection. 
 
 ## Files
 - datasets/aac_shelter_outcomes.csv
