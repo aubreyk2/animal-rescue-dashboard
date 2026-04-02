@@ -14,7 +14,7 @@ A full-stack interactive dashboard for Grazioso Salvare, an animal rescue organi
 - Reusable CRUD module separating database logic from dashboard
 - CSV fallback if MongoDB connection is unavailable
 
-##Development Approach
+## Development Approach
 -Development started by breaking the project into smaller, managable components rather than tackling it all at once.
 - Followed SDLC practices such as planning, development, testing, and documentation.
 - Separated database logic from dashboard functionality using a reusable CRUD module.
