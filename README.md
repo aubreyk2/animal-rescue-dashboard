@@ -40,6 +40,6 @@ This project uses the Austin Animal Center (AAC) Shelter Outcomes dataset. Downl
 
 ## How to Run 
 1. Clone the repository
-2. 2. Install dependencies: pip install -r requirements.txt
+2. Install dependencies: pip install -r requirements.txt
 3. Connect to MongoDB database
 4. Run the dashboard: python dashboard.
